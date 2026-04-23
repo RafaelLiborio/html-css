@@ -57,7 +57,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-size: 3.5vw;
-    box-shadow: -1px -4px 20px black;
+    
 }
 
 section.normal {
@@ -73,17 +73,17 @@ section#img01 {
     background-image: url('mandacaru.jpg');
     background-position:  left;
     background-size: cover;
-    background-repeat: no-repeat;
+    box-shadow: inset 1px -3px 16px 1px black;
+    background-attachment: fixed;
     
-
-
 }
 
 section#img02 {
     background-image: url('casa.jpg');
     background-size: cover;
+    box-shadow: inset 1px -3px 16px 1px black;
     background-position: center center;
-    
+    background-attachment: fixed;
 
 }
 

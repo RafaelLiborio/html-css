@@ -6,4 +6,3 @@ Estou aprendendo a criar sites e agoar vou gerenciar repositórios!
 
 <a href="https://rafaelliborio.github.io/html-css/Exercicios/Desafios 02/android.html">Executar exércicio 001</a>
 
-<a href="https://github.com/RafaelLiborio/html-css/blob/main/Exercicios/Desafios%2003/Sitecordel.html">Site Cordel</a>
