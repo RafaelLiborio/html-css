@@ -8,3 +8,4 @@ Estou aprendendo a criar sites e agoar vou gerenciar repositórios!
 <br>
 <a href="Exercicios/Ex025/form003.html">Formulário Simples</a>
 
+<a href="Exercicios/Ex026/mq002/index.html">Teste de Queries</a>
