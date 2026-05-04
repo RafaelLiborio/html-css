@@ -7,5 +7,5 @@ Estou aprendendo a criar sites e agoar vou gerenciar repositórios!
 <a href="https://rafaelliborio.github.io/html-css/Exercicios/Desafios 02/android.html">Site android</a>
 <br>
 <a href="Exercicios/Ex025/form003.html">Formulário Simples</a>
-
 <a href="Exercicios/Ex026/mq002/index.html">Teste de Queries</a>
+<a href="Exercicios/Ex026/mq005/index.html">Menu responsivo</a>
