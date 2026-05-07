@@ -3,20 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flexibe Box</title>
+    <title>flexibe box</title>
     <style>
         div.conteiner {
             background-color: lightsalmon;
-
+            height: 300px;
             display: flex;
-            flex-direction: column;
+            flex-flow: row nowrap;
+            justify-content: space-around;
+            align-items: flex-end;
+
         }
-  
+
         div.item {
             background-color: lightskyblue;
             border: 1px solid black;
             text-align: center;
-            padding: 10px;
         }
     </style>
 </head>
